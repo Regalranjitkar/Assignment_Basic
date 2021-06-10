@@ -1,0 +1,1 @@
+alert("Properly escaped: Steve’s response was “Cool”.")
